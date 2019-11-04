@@ -41,4 +41,5 @@ This step connects to the reports API used by the Microsoft 365 Usage Analytics 
 6. Click the **Refresh** button on the Home tab to see data on the page
 
 7. Tweak the Page filters as necessary to properly scope the pages you want to see in the report. As provided, the report will show more than just News articles, but won't show most system pages (_layouts, Lists). This is an area of improvement that you are welcome to contribute to. 
+
 ![Page Filters](Images/PageFilters.png)
