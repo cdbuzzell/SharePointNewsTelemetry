@@ -3,6 +3,9 @@ Report on SharePoint Online News page views using the Office 365 Audit Log and P
 
 ![SharePoint News Telemetry report](Images/Report.png)
 
+
+![SharePoint News Telemetry report 2](Images/Report2.jpg)
+
 ## Step 1: Export Audit Log data
 ***Pre-requisites***: enable Office 365 audit log search: https://docs.microsoft.com/en-us/microsoft-365/compliance/turn-audit-log-search-on-or-off. You have to be assigned the Audit Logs role in Exchange Online to turn audit log search on or off in your Office 365 organization. By default, this role is assigned to the Compliance Management and Organization Management role groups on the Permissions page in the Exchange admin center. Global admins in Office 365 are members of the Organization Management role group in Exchange Online.
 
